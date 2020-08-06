@@ -9,6 +9,6 @@ package Modelo;
  *
  * @author TuNombre
  */
-public class Ventas {
+public class proveedor {
     
 }
